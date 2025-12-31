@@ -52,6 +52,6 @@
  ## 📫 Conecte-se comigo
  <p align="center">
  <a href="https://www.linkedin.com/in/rafael-eliezer-dantas-botelho-fernandes" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=041B2D" />
   </a>
 </p>
