@@ -6,7 +6,7 @@
   >**Estudante de Sistemas de Informação na PUCPR**
   
 </div>
-<p align="justify">Estudante de Sistemas de Informação na PUCPR (Pontifícia Universidade Católica do Paraná). Gosto muito de entender como os algoritmos funcionam e de criar softwares utilizando as novas tecnologias que vou aprendendo. Sempre estou em busca de entender cada vez mais como as linguagens de programação funcionam e meu objetivo é desenvolver aplicações cada vez mais úteis e que solucionem problemas reais.</p>
+<p align="justify">Estudante de Engenharia de Software na PUCPR (Pontifícia Universidade Católica do Paraná). Gosto muito de entender como os algoritmos funcionam e de criar softwares utilizando as novas tecnologias que vou aprendendo. Sempre estou em busca de entender cada vez mais como as linguagens de programação funcionam e meu objetivo é desenvolver aplicações cada vez mais úteis e que solucionem problemas reais.</p>
 
 ---
 
